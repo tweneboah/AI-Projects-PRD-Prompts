@@ -12,4 +12,4 @@ A Product Requirement Document (PRD) in the context of AI projects typically out
 
 For more details, [click here to view the projects PRD](https://github.com/tweneboah/ai-for-projects-prd/wiki).
 
-Visit my [YouTube channel](https://www.youtube.com/@masyntech) to find the projects and explore all my courses on [Udemy]([https://www.udemy.com/user/yourprofile](https://www.udemy.com/user/emmanuel-tweneboah-2/?srsltid=AfmBOorjLoDZ9bqK3Gb0b3tuRbiEO5Tbd09WinVgymUdGiDwtyeItdZx)).
+Visit my [YouTube channel](https://www.youtube.com/@masyntech) to find the projects and explore all my courses on [Udemy](https://www.udemy.com/user/emmanuel-tweneboah-2/?srsltid=AfmBOorjLoDZ9bqK3Gb0b3tuRbiEO5Tbd09WinVgymUdGiDwtyeItdZx).
