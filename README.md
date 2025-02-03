@@ -1,4 +1,5 @@
 # AI PROJECTS PRD-PRODUCT REQUIREMENT DOCUMENTS
+
 A Product Requirement Document (PRD) in the context of AI projects typically outlines the functional and non-functional requirements for the AI system or project. It includes details such as:
 
 - **Project Overview**: Description of the AI project's goals, scope, and objectives.
@@ -8,3 +9,7 @@ A Product Requirement Document (PRD) in the context of AI projects typically out
 - **Data Requirements**: Types of data needed, data sources, and data processing requirements.
 - **Design and Architecture**: High-level design, system architecture, and integration points.
 - **Success Metrics**: Criteria for evaluating the success of the AI project.
+
+[Click here to view projects PRD](https://github.com/tweneboah/ai-for-projects-prd/wiki)
+
+Visit my [YouTube channel](https://www.youtube.com/user/yourchannel) to find the projects and view all my courses on [Udemy](https://www.udemy.com/user/yourprofile).
